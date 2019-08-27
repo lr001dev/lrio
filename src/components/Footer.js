@@ -2,7 +2,7 @@ import React, { Component } from 'react'
 import Container from 'react-bootstrap/Container'
 
 
-class Footer extends React.Component {
+class Footer extends Component {
   render() {
     return (
       <Container  fluid>

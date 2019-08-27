@@ -10,7 +10,8 @@ class App extends React.Component {
       <Router>
         <Header />
         <Main />
-    
+        <Footer />
+
       </Router>
     )
   }

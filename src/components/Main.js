@@ -1,10 +1,10 @@
 import React, { Component } from 'react'
-import { BrowserRouter as Router, Route } from "react-router-dom"
+import { Route } from "react-router-dom"
 import Home from './Home'
 import About from './About'
 import Projects from './Projects'
 
-class Main extends React.Component {
+class Main extends Component {
   render() {
     return (
         <main>

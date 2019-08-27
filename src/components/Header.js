@@ -4,7 +4,7 @@ import Navbar from 'react-bootstrap/Navbar'
 import Container from 'react-bootstrap/Container'
 import Nav from 'react-bootstrap/Nav'
 
-class Header extends React.Component {
+class Header extends Component {
   render() {
     return (
       <Container fluid>
