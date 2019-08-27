@@ -132,7 +132,7 @@ main {
 }
 
 .card, .list-group, .list-group-item {
-  background-color: rgba(245, 245, 245, 0.0); }
+  background-color: #212529; }
 /* .card-header, .card-footer { opacity: 1} */
 .card-title, .card-text, .card-footer,.list-group-item {
 color: ghostwhite;
