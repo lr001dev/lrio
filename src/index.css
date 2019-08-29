@@ -138,6 +138,11 @@ main {
 color: ghostwhite;
 
 }
+.about-img {
+  width: 400px;
+  height: 500px;
+  border-radius: 50%;
+}
 
 .buttons {
   margin: 1em 1em 0 0;

@@ -11,7 +11,8 @@ class About extends Component {
           <Col xs={12}>
             <div className="avatar">
               <img
-                src="https://avatars.dicebear.com/v2/bottts/lr001dev.svg"
+                src="/img/lr_head.jpg"
+                className="about-img"
               />
             </div>
             <div className="banner-text">
