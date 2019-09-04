@@ -21,7 +21,7 @@ class Home extends Component {
               <Row className="social-links">
                 <Col>
                 { /*LinkedIn */ }
-                  <a href="https://github.com/lr001dev/" rel="noopener noreferrer" target="_blank"><FaGithub/></a>
+                  <a href="https://github.com/lr001dev/" target="_blank"><FaGithub/></a>
                 </Col>
                 <Col>
                   <a href="https://www.linkedin.com/in/luisrosario-la" target="_blank"><FaLinkedin /></a>

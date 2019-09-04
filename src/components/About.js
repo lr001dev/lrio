@@ -19,7 +19,8 @@ class About extends Component {
               <h1>Luis Rosario</h1>
               <div className="arrow"><FaAngleDoubleDown/></div>
               <p>
-                I love to code and thrive on taking on the daily challenges. My past experiences has made me an exceptional problem solver and a great communicator.  I keep the pulse on emerging technologies to further advance what I can deliver.  I enjoy being versatile and feel comfortable in either a Front End, Back End, Full Stack or Lead roles. I know nothing but to give it 100% because I get to do what I love!
+                I love to code and thrive on taking on the daily challenges.
+                My past experiences have made me an exceptional problem solver and a great communicator.  I keep the pulse on emerging technologies to further advance what I can deliver.  I enjoy being versatile and feel comfortable in either a Front End, Back End, or Full Stack role. I only know to give it 100% because I get to do what I love!
               </p>
               <FaAngleDoubleDown/><p>Download Resume</p>
               <Row className="social-links">
