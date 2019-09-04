@@ -50,7 +50,7 @@ class Projects extends Component {
                   </ListGroup>
                   <Card.Footer>
                     <Button className="buttons" variant="outline-success" size="lg"><a href="https://react-fitness.herokuapp.com" target="_blank">Live Demo</a></Button>
-                    <Button className="buttons" variant="outline-success" size="lg"><a href="https://github.com/lr001dev/reactStripeDashboardClient" target="_blank">Check Out Code</a></Button>
+                    <Button className="buttons" variant="outline-success" size="lg"><a href="https://github.com/lr001dev/reactStripeDashboardClient" target="_blank">Check Out Code On GitHub</a></Button>
                   </Card.Footer>
                 </Card>
               </div>
