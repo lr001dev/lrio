@@ -18,12 +18,14 @@ class About extends Component {
             <div className="banner-text">
               <h1>Luis Rosario</h1>
               <div className="arrow"><FaAngleDoubleDown/></div>
-              <p>NodeJS | React | Express | MongoDB | Ruby | Rails | Postgres | Javascript | PHP | Wordpress | HTML/CSS | JQuery | BootstrapNodeJS | React | Express | MongoDB | Ruby | Rails | Postgres | Javascript | PHP | Wordpress | HTML/CSS | JQuery | BootstrapNodeJS | React | Express | MongoDB | Ruby | Rails | Postgres | Javascript | PHP | Wordpress | HTML/CSS | JQuery | Bootstrap</p>
+              <p>
+                I do my passions. That has never changed in my life. As a result, my skill set has evolved tremendously since I do have a dynamic background. I love to code. I thrive on new experiences and invite new possibilities that will allow me to take on new challenges. I’m an exceptional problem solver and a great communicator. I often interface with clients who expect nothing but the best where clear communication is paramount to the work I do. I always fun! 
+              </p>
               <FaAngleDoubleDown/><p>Download Resume</p>
               <Row className="social-links">
                 <Col>
                 { /*LinkedIn */ }
-                  <a href="https://github.com/lr001dev/" rel="noopener noreferrer" target="_blank"><FaFile/></a>
+                  <a href="/files/LUIS_ROSARIO_SOFTWARE_ENGINEER.pdf" target="_blank"><FaFile/></a>
                 </Col>
               </Row>
             </div>
