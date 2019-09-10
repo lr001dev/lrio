@@ -68,7 +68,7 @@ class Projects extends Component {
                     <ListGroup.Item>Zomato API | Fortune Cookie API | HTML5 Audio | Git Hub Pages </ListGroup.Item>
                   </ListGroup>
                   <Card.Footer>
-                    <Button className="buttons" variant="outline-success" size="lg"><a href="https://lr001dev.github.io/Food-And-Fortune-WebApp/" target="_blank">Live Demo</a></Button>
+                    <Button className="buttons" variant="outline-success" size="lg"><a href="http://fortune.luisrosario.io" target="_blank">Live Demo</a></Button>
                     <Button className="buttons" variant="outline-success" size="lg"><a href="https://github.com/lr001dev/Food-And-Fortune-WebApp" target="_blank">Check Out The Code</a></Button>
                   </Card.Footer>
                 </Card>
